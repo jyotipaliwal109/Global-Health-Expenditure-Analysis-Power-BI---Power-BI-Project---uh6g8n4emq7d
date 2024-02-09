@@ -13,7 +13,9 @@
 
 ![image](https://github.com/jyotipaliwal109/Global-Health-Expenditure-Analysis-Power-BI---Power-BI-Project---uh6g8n4emq7d/assets/85400541/ec3c9bf9-939b-4e30-a3d3-f9a6df7fcda8)
 
-![image](https://github.com/jyotipaliwal109/Global-Health-Expenditure-Analysis-Power-BI---Power-BI-Project---uh6g8n4emq7d/assets/85400541/c4424fcb-d46d-4f71-9bc7-0d5c1d394109)
+![2nd page](https://github.com/jyotipaliwal109/Global-Health-Expenditure-Analysis-Power-BI---Power-BI-Project---uh6g8n4emq7d/assets/85400541/f5be82dc-3b92-498b-a63e-17d5a421b107)
+
+
 
 
 
