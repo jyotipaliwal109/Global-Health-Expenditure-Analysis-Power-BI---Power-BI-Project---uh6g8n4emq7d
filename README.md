@@ -1,5 +1,9 @@
 <b>Objective:</b> The objective of this Power BI project is to analyse global health expenditure data to gain valuable insights into various aspects of health spending across countries and regions. The primary goal is to provide a comprehensive and data-driven view of health expenditure trends, its relationships, and identify key patterns. The analysis aims to answer critical questions and support decision-making in the field of global healthcare.
 
+![image](https://github.com/jyotipaliwal109/Global-Health-Expenditure-Analysis-Power-BI---Power-BI-Project---uh6g8n4emq7d/assets/85400541/ec3c9bf9-939b-4e30-a3d3-f9a6df7fcda8)
+
+![2nd page](https://github.com/jyotipaliwal109/Global-Health-Expenditure-Analysis-Power-BI---Power-BI-Project---uh6g8n4emq7d/assets/85400541/f5be82dc-3b92-498b-a63e-17d5a421b107)
+
 <b>Key Insights:</b>
 
 1. Luxembourg is the country with the highest health expenditure for all years and the Democratic Republic of the Congo is the country with the lowest health expenditure for all years.
@@ -11,11 +15,11 @@
 7. Most of the countries spent more amount than the previous years and San Marino spent double the amount of the previous year's combined amount.
 8. Activate a Total of 573 countries participated and almost 23 million population spent expenditure amount 3.35 million and a GDP is 8.6 million.
 
-![image](https://github.com/jyotipaliwal109/Global-Health-Expenditure-Analysis-Power-BI---Power-BI-Project---uh6g8n4emq7d/assets/85400541/ec3c9bf9-939b-4e30-a3d3-f9a6df7fcda8)
-
-![2nd page](https://github.com/jyotipaliwal109/Global-Health-Expenditure-Analysis-Power-BI---Power-BI-Project---uh6g8n4emq7d/assets/85400541/f5be82dc-3b92-498b-a63e-17d5a421b107)
-
-
-
-
-
+<b>Key Contributions:</b>
+1. Ensured a clean and accurate dataset through meticulous transformation and cleaning.
+2. Identified the highest and lowest health expenditure countries, calculated percentage of GDP, and determined average expenditure per capita.
+3. Created impactful charts, scatter plots, and geographical maps for trends and comparisons.
+4. Summarize findings to draw insightful conclusions.
+5. Designed an interactive dashboard for end-users to explore and understand the data easily.
+   
+<b>Skills Demonstrated:</b> Power BI, Data Cleaning, DAX Functions, Visualization Design, Data Analysis.
